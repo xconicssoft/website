@@ -1,0 +1,24 @@
+.button-primary {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 10px;
+  left: 4694px;
+  padding: 6px 24px;
+  position: relative;
+  top: -436px;
+}
+
+.button-primary .explore-products {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.02px;
+  line-height: 28px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
